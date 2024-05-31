@@ -1,0 +1,2 @@
+# Gige2Opencv
+工业相机Gige采集图像数据转为Opencv的Mat数据
